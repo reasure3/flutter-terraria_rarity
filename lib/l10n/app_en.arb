@@ -1,0 +1,13 @@
+{
+"@@locale": "en",
+
+"title": "Terraria Rarity",
+"@title": {
+    "description": "This is App Name"
+},
+
+"appBarLabel": "Terraria Rariry List",
+"@appBarLabel": {
+     "description": "This is used for App Name in app bar"
+ }
+}
